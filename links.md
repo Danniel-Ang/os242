@@ -22,7 +22,7 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Midterm Exercise](https://rms46.vlsm.org/2/196.pdf){:target="_blank"} --- REVIEW THIS TO TEST YOUR THEORY
 * [Bash Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/){:target="_blank"} --- Learn Bash code
 * [Chat-GPT](https://www.chatgpt.com){:target="_blank"} --- My Best Friend to learning faster
-<br>
+
 <br>
 #### REV: Wed 08 Sep 2024 19:13
 <hr>
