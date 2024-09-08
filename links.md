@@ -24,6 +24,6 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Chat-GPT](https://www.chatgpt.com){:target="_blank"} --- My Best Friend to learning faster
 <br>
 <br>
-#### REV: Wed 04 Sep 2024 21:00
+#### REV: Wed 08 Sep 2024 19:13
 <hr>
 
