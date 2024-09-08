@@ -15,8 +15,13 @@ permalink: LINKS/
 * [Operating Systems Programming Slides](https://docos.vlsm.org/){:target="_blank"} ---
   Slides with LaTeX sources code.
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg){:target="_blank"} ---
-Some easy-to-use commands you can use to inspect hardware. 
-These commands will help you list PCI devices, view information about your CPU, and more.
+Some easy-to-use commands you can use to inspect hardware.
+
+#### Additional Resource
+ 
+* [Midterm Exercise](https://rms46.vlsm.org/2/196.pdf){:target="_blank"} --- REVIEW THIS TO TEST YOUR THEORY
+* [Bash Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/){:target="_blank"} --- Learn Bash code
+* [Chat-GPT](chatgpt.com){:target="_blank"} --- My Best Friend to learning faster
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00
