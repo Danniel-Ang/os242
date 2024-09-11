@@ -6,10 +6,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [General](#general)
-2. [Week 0](#week-0)
-3. [Week 1](#week-1)
-4. [Week 2](#week-2)
+[General](#general) | [Week 0](#week-0) | [Week 1](#week-1) | [Week 2](#week-2)
 
 ---
 
