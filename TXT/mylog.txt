@@ -24,3 +24,5 @@ ZCZC W02 15 L11 Running 98-W02-DEMO-CHECK.sh and Fixing error updates that occur
 ZCZC W02 100 L02 OS Class 11 Sept 2024, 10.00 - 11.40 AM WIB
 ZCZC W02 60 L12 Generating, deleting GPG key over and over. Also, studying what is going on there with GSGS methods
 ZCZC W02 10 L30 Studying about GPG key (Signing, Encrypt, Decrypt with keys)
+ZCZC W02 5 L14 Looking some cool pages to get reviewed by me (Thank you Anders35 cjoyy kaindraa)
+ZCZC W02 15 L04 Trying to improve a little to my github links.md

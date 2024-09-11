@@ -45,6 +45,6 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Delete GPG Key](https://linuxhint.com/delete-gpg-keys-linux/) --- Deleting GPG Key, incase something goes wrong hehe
 
 <br>
-#### REV: Wed 08 Sep 2024 19:13
+#### REV: Wed 11 Sep 2024 14:29
 <hr>
 
