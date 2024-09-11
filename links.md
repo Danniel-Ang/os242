@@ -18,6 +18,7 @@ permalink: LINKS/
   Slides to study OS for POPQUIZ
 * [MD Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- Reference to make your MD beautiful (Taken after reviewing Anders35)
 * [Chat-GPT](https://www.chatgpt.com) --- My Best Friend, use this when you lazy to google it (Double check the information pls)
+
 ---
 
 ### Week 0
