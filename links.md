@@ -17,7 +17,7 @@ permalink: LINKS/
 * [Operating Systems Programming Slides](https://docos.vlsm.org/) ---
   Slides to study OS for POPQUIZ
 * [MD Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- Reference to make your MD beautiful (Taken after reviewing Anders35)
-
+* [Chat-GPT](https://www.chatgpt.com) --- My Best Friend, use this when you lazy to google it (Double check the information pls)
 ---
 
 ### Week 0
@@ -35,9 +35,9 @@ Some easy-to-use commands you can use to inspect hardware.
 
 ### Week 1
 
-* [Midterm Exercise](https://rms46.vlsm.org/2/196.pdf){:target="_blank"} --- REVIEW THIS TO TEST YOUR THEORY
-* [Bash Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) --- Learn Bash code
-* [Chat-GPT](https://www.chatgpt.com) --- My Best Friend to learning faster
+* [Midterm Exercise](https://rms46.vlsm.org/2/196.pdf){:target="_blank"} --- Reviewing the concept of this week
+* [Bash Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) --- Learning Bash code
+* [Regex](https://www.rexegg.com/regex-quickstart.php) --- Regex Cheatsheet
 
 ---
 
@@ -45,6 +45,6 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Delete GPG Key](https://linuxhint.com/delete-gpg-keys-linux/) --- Deleting GPG Key, incase something goes wrong hehe
 
 <br>
-#### REV: Wed 11 Sep 2024 14:29
+#### REV: Wed 11 Sep 2024 14:43
 <hr>
 
