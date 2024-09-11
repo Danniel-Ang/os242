@@ -4,7 +4,7 @@
 
 ---
 
-![This is my face when i try to understand something](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fconfused-unga-bunga-loading-uga-gif-23786525&psig=AOvVaw3t0SUBRQSqNfIyPzNDcyVh&ust=1726126039260000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiNjd2uuogDFQAAAAAdAAAAABAE)
+![This is my face when i try to understand something]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fconfused-unga-bunga-loading-uga-gif-23786525&psig=AOvVaw3t0SUBRQSqNfIyPzNDcyVh&ust=1726126039260000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiNjd2uuogDFQAAAAAdAAAAABAE](https://i.pinimg.com/564x/52/7b/72/527b72e1c88b3760b4727b59b0abfe5e.jpg))
 
 <br>
 #### REV: Wed 11 Sep 2024 14:29
