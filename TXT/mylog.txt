@@ -20,9 +20,14 @@ ZCZC W01 30 L23 Bash, Regex, SED, AWK.
 ZCZC W01 20 L30 Udacity: study, etc.
 ZCZC W01 20 L40 TXT/ related in general.
 
+ZCZC W02 100 L02 OS Class 9 Sept 2024, 10.00 - 11.40 AM WIB
 ZCZC W02 15 L11 Running 98-W02-DEMO-CHECK.sh and Fixing error updates that occurs by exporting language in locales
 ZCZC W02 100 L02 OS Class 11 Sept 2024, 10.00 - 11.40 AM WIB
 ZCZC W02 60 L12 Generating, deleting GPG key over and over. Also, studying what is going on there with GSGS methods
 ZCZC W02 10 L30 Studying about GPG key (Signing, Encrypt, Decrypt with keys)
 ZCZC W02 5 L14 Looking some cool pages to get reviewed by me (Thank you Anders35 cjoyy kaindraa)
-ZCZC W02 30 L04 Trying to improve my github pages links.md and index.md
+ZCZC W02 40 L04 Trying to improve my github pages links.md and index.md
+ZCZC W02 15 L64 Helping my friend because his GPG key cannt be generate without catchphrase
+ZCZC W02 30 L15 Backing up my SSH and GPG key, im also backing up to outside my virtual box using scp (Finally figure it out)
+ZCZC W02 90 L16 Figuring out why there is a mismatch when using a bash and solve it
+ZCZC W02 5 L30 Studying about sudo and understanding a couple of linux command
