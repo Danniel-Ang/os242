@@ -9,6 +9,12 @@
 #### This is my face when i try to understand something. No offense but i enjoyed learning OS :3
 
 <br>
-#### REV: Wed 11 Sep 2024 14:39
-<br>
+**Thanks for visiting my GitHub Page!**
 
+Contact me in:
+- **Email:** [angdanniel8@gmail.com](mailto:angdanniel8@gmail.com)
+- **Univ Email** [danniel@ui.ac.id](mailto:danniel@ui.ac.id)
+
+---
+**Last updated:13 September 2024
+---

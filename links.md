@@ -44,8 +44,12 @@ Some easy-to-use commands you can use to inspect hardware.
 
 ### Week 2
 * [Delete GPG Key](https://linuxhint.com/delete-gpg-keys-linux/) --- Deleting GPG Key, incase something goes wrong hehe
+* [What is GPG](https://cran.r-project.org/web/packages/gpg/vignettes/intro.html) --- How GPG Works, like signing, encrypt, decrypt etc
+* [Security](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch16.pptx) --- Security Matery
+* [Protection](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch17.pptx) --- Protection Matery
+* [Excercise](https://rms46.vlsm.org/2/197.pdf) --- MIDTERM PROBLEM
 
 <br>
-#### REV: Wed 11 Sep 2024 14:43
+#### REV: Friday 13 Sep 2024 22:32
 <hr>
 
