@@ -32,3 +32,11 @@ ZCZC W02 30 L15 Backing up my SSH and GPG key, im also backing up to outside my 
 ZCZC W02 90 L16 Figuring out why there is a mismatch when using a bash and solve it
 ZCZC W02 5 L30 Studying about sudo and understanding a couple of linux command
 ZCZC W02 15 L17 Run my script and moving all to TXT 
+ZCZC W02 68 L05 Studying for my W02 Quiz (Chapter 16 and 17)
+ZCZC W02 7 L14 Adding couple of links and improving a little in index.md
+ZCZC W02 30 L05 Doing my POPQUIZ 01 - 03
+ZCZC W02 30 L17 Make sure i didnt make a mistake in the tarball (Just makesure that it have 6 file)
+ZCZC W02 30 L30 Studying cbkadal myscript.sh and tarball (bash thing)
+ZCZC W02 30 L08 Discussing about PopQuiz and Bash via Discord
+ZCZC W02 20 L43 rerank again, trying to find inspiration
+ZCZC W02 15 L60 Backup my WEEK 02 
