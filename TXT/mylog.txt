@@ -31,3 +31,4 @@ ZCZC W02 15 L64 Helping my friend because his GPG key cannt be generate without 
 ZCZC W02 30 L15 Backing up my SSH and GPG key, im also backing up to outside my virtual box using scp (Finally figure it out)
 ZCZC W02 90 L16 Figuring out why there is a mismatch when using a bash and solve it
 ZCZC W02 5 L30 Studying about sudo and understanding a couple of linux command
+ZCZC W02 15 L17 Run my script and moving all to TXT 
