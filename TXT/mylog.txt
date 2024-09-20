@@ -39,4 +39,14 @@ ZCZC W02 30 L17 Make sure i didnt make a mistake in the tarball (Just makesure t
 ZCZC W02 30 L30 Studying cbkadal myscript.sh and tarball (bash thing)
 ZCZC W02 30 L08 Discussing about PopQuiz and Bash via Discord
 ZCZC W02 20 L43 rerank again, trying to find inspiration
-ZCZC W02 15 L60 Backup my WEEK 02 
+ZCZC W02 15 L60 Backup my WEEK 02
+
+ZCZC W03 60 L30 Studying about file systems before class
+ZCZC W03 100 L02 OS Class 
+ZCZC W03 20 L11 Checking and updating DEMOS
+ZCZC W03 10 L12 Make sure that my key already backed up
+ZCZC W03 150 L13 Doing assignment 3 and studying why we need stuff like partitioning etc
+ZCZC W03 30 L14 Doing assignment 4 and checking all are correct
+ZCZC W03 90 L15 Reviewing + Log + Update index and links + running myscript again and again
+ZCZC W03 45 L05 Doing popquiz 
+ZCZC W03 45 L01 Reading forum in scele (checking for ATTN and stuff)
