@@ -50,3 +50,18 @@ ZCZC W03 30 L14 Doing assignment 4 and checking all are correct
 ZCZC W03 90 L15 Reviewing + Log + Update index and links + running myscript again and again
 ZCZC W03 45 L05 Doing popquiz 
 ZCZC W03 45 L01 Reading forum in scele (checking for ATTN and stuff)
+
+ZCZC W04 90 L30 Studying Pointer before class
+ZCZC W04 100 L02 OS Class 1
+ZCZC W04 100 L02 OS Class 2
+ZCZC W04 15 L11 Checking and updating DEMOS
+ZCZC W04 15 L12 Backing my SSH key etc
+ZCZC W04 30 L13 Doing Assignment 3
+ZCZC W04 30 L30 Studying tarball and finding references
+ZCZC W04 5 L14 Just running bash TLPI
+ZCZC W04 30 L43 Adding rank and reviewing bunch of user
+ZCZC W04 60 L05 Doing pop quiz
+ZCZC W04 15 L30 Studying SCP again
+ZCZC W04 45 L01 Reading form in scele
+ZCZC W04 90 L15 Log + Update + Running script + etc
+ 
