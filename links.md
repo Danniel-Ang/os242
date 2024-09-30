@@ -45,11 +45,29 @@ Some easy-to-use commands you can use to inspect hardware.
 ### 📍Week 2
 * [Delete GPG Key](https://linuxhint.com/delete-gpg-keys-linux/) --- Deleting GPG Key, incase something goes wrong hehe
 * [What is GPG](https://cran.r-project.org/web/packages/gpg/vignettes/intro.html) --- How GPG Works, like signing, encrypt, decrypt etc
-* [Security](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch16.pptx) --- Security Matery
-* [Protection](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch17.pptx) --- Protection Matery
+* [Security](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch16.pptx) --- Security things
+* [Protection](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch17.pptx) --- Protection things
 * [Excercise](https://rms46.vlsm.org/2/197.pdf) --- MIDTERM PROBLEM
 
+
+### 📍Week 3
+* [File-System Interface](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch13.pptx) --- File System Interface things 
+* [File-System Implementation](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch14.pptx) --- Implementation of file systems things
+* [File-System Internals](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch15.pptx) --- File System Iinternal things
+* [VHD](https://www.blackbox.ai/chat/Tbb2WVr) --- What is VHD and why do we need them
+* [Excercise](https://rms46.vlsm.org/2/198.pdf) --- MIDTERM PROBLEM
+
+
+### 📍Week 4
+* [Tarball Cheatsheet](https://www.cyberciti.biz/faq/how-to-extract-tar-xz-files-in-linux-and-unzip-all-files/) --- Tarball, how to do thingise
+* [About Main Memory](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch9.pptx) --- Main Memory Things
+* [SCP](https://doit.vlsm.org/019.html) --- SCP, How to use for dummies
+* [More about SCP](https://www.baeldung.com/linux/transfer-file-windows-to-linux) --- Multiple ways, kinda useless tbh
+* [Excercise](https://rms46.vlsm.org/2/199.pdf) --- MIDTERM PROBLEM
+
+
+
 <br>
-#### REV: Friday 13 Sep 2024 23:01
+#### REV: Saturday 28 Sep 2024 14:12
 <hr>
 
