@@ -66,6 +66,12 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Excercise](https://rms46.vlsm.org/2/199.pdf) --- MIDTERM PROBLEM
 
 
+### 📍Week 5
+* [C Code Study](https://www.geeksforgeeks.org/c-programming-language/) --- C Code Study
+* [About Virtual Memory](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch10.pptx) --- Virtual Memory Things
+* [Excercise](https://rms46.vlsm.org/2/200.pdf) --- MIDTERM PROBLEM
+
+
 
 <br>
 #### REV: Saturday 28 Sep 2024 14:12

@@ -64,4 +64,16 @@ ZCZC W04 60 L05 Doing pop quiz
 ZCZC W04 15 L30 Studying SCP again
 ZCZC W04 45 L01 Reading form in scele
 ZCZC W04 90 L15 Log + Update + Running script + etc
- 
+
+ZCZC W05 100 L02 OS Class
+ZCZC W05 100 L02 OS Class
+ZCZC W05 90 L05 Studying for Quiz
+ZCZC W05 15 L05 Quiz
+ZCZC W05 15 L11 Checking and updating DEMOS
+ZCZC W05 15 L12 Backing my SSH key etc
+ZCZC W05 20 L13 Checking how low my memory can go
+ZCZC W05 15 L14 Assignment 4 Done
+ZCZC W05 150 L15 studying C and doing sort
+ZCZC W05 120 L01 Pop Quiz 
+ZCZC W05 90 L15 Log + update + running etc
+ZCZC W05 90 L30 studying for midterm
