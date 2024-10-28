@@ -72,8 +72,18 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Excercise](https://rms46.vlsm.org/2/200.pdf) --- MIDTERM PROBLEM
 
 
+### 📍Week 6
+* [MyDocusaurus Repo](https://github.com/Danniel-Ang/242saurus) --- Github Repo
+* [MyDocusaurus Pages](https://danniel-ang.github.io/242saurus/) --- Github Pages
+* [About memmory allo](https://www.geeksforgeeks.org/memory-management-in-operating-system/) --- Documentation Memory Allo
+* [Slides Ch3](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch3.pptx) --- Ch3
+* [Slides Ch4](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch4.pptx) --- Ch4
+* [Excercise](https://rms46.vlsm.org/2/201.pdf) --- MIDTERM PROBLEM
+
+
+
 
 <br>
-#### REV: Saturday 28 Sep 2024 14:12
+#### REV: Thursday 29 Okt 2024 00:23
 <hr>
 

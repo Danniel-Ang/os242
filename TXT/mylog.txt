@@ -73,7 +73,18 @@ ZCZC W05 15 L11 Checking and updating DEMOS
 ZCZC W05 15 L12 Backing my SSH key etc
 ZCZC W05 20 L13 Checking how low my memory can go
 ZCZC W05 15 L14 Assignment 4 Done
-ZCZC W05 150 L15 studying C and doing sort
+ZCZC W05 150 L30 studying C and doing sort
 ZCZC W05 120 L01 Pop Quiz 
 ZCZC W05 90 L15 Log + update + running etc
 ZCZC W05 90 L30 studying for midterm
+
+ZCZC W06 100 L02 OS Class
+ZCZC W06 100 L02 OS Class
+ZCZC W06 100 L05 Studying for Quiz
+ZCZC W06 15 L11 Checking and updating DEMOS
+ZCZC W06 15 L12 Backing my SSH key etc
+ZCZC W06 10 L13 Assignment 3 
+ZCZC W06 20 L14 Assignment 4
+ZCZC W06 240 L01 Pop Quiz 
+ZCZC W06 100 L15 Log + update + running etc
+ZCZC W06 30 L30 studying for midterm
