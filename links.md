@@ -80,10 +80,15 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Slides Ch4](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch4.pptx) --- Ch4
 * [Excercise](https://rms46.vlsm.org/2/201.pdf) --- MIDTERM PROBLEM
 
-
+### 📍Week 7
+* [Passphrase](https://medium.com/@retprogramisto/how-to-use-symmetric-password-encryption-with-gpg-af0d9734d08c) --- GPG Encryption
+* [Slides Ch6](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch6.pptx) --- Ch6
+* [Slides Ch7](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch7.pptx) --- Ch7
+* [Slides Ch8](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch8.pptx) --- Ch8
+* [Excercise](https://rms46.vlsm.org/2/202.pdf) --- MIDTERM PROBLEM
 
 
 <br>
-#### REV: Thursday 29 Okt 2024 00:23
+#### REV: Thursday 4 November 2024 23.27
 <hr>
 
