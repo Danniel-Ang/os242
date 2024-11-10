@@ -87,8 +87,14 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Slides Ch8](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch8.pptx) --- Ch8
 * [Excercise](https://rms46.vlsm.org/2/202.pdf) --- MIDTERM PROBLEM
 
+### 📍Week 8
+* [LFS Youtube](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- LFS YT Channel
+* [List Materi](https://demos.vlsm.org/W08-01.html) --- Materi Week 8
+* [Scheduling 1](https://youtu.be/Gzic0dI3qQc) --- Scheduling 1
+* [Scheduling 2](https://youtu.be/jBjmzJS_jQs) --- Scheduling 2
+* [Excercise](https://rms46.vlsm.org/2/203.pdf) --- MIDTERM PROBLEM
 
 <br>
-#### REV: Thursday 4 November 2024 23.27
+#### REV: Sunday 11 November 2024 01:16
 <hr>
 

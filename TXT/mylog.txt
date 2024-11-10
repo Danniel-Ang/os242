@@ -101,3 +101,14 @@ ZCZC W07 150 L30 studying SYNC
 ZCZC W07 120 L01 Pop Quiz
 ZCZC W07 90 L15 Log + update + running etc
 ZCZC W07 90 L30 studying for midterm
+
+ZCZC W08 100 L02 OS Class
+ZCZC W08 100 L02 OS Class
+ZCZC W08 90 L05 Studying for Quiz
+ZCZC W08 15 L05 Quiz
+ZCZC W08 15 L11 Checking and updating DEMOS
+ZCZC W08 15 L12 Assignment script
+ZCZC W08 180 L13 LFS Stuff
+ZCZC W08 120 L01 Pop Quiz
+ZCZC W08 90 L14 Log + update + running etc
+ZCZC W08 90 L30 studying for midterm
