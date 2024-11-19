@@ -94,7 +94,12 @@ Some easy-to-use commands you can use to inspect hardware.
 * [Scheduling 2](https://youtu.be/jBjmzJS_jQs) --- Scheduling 2
 * [Excercise](https://rms46.vlsm.org/2/203.pdf) --- MIDTERM PROBLEM
 
+### 📍Week 9
+* [LFS Youtube](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- LFS YT Channel
+* [List Materi](https://demos.vlsm.org/W09-01.html) --- Materi Week 9
+* [Excercise](https://rms46.vlsm.org/2/204.pdf) --- MIDTERM PROBLEM
+
 <br>
-#### REV: Sunday 11 November 2024 01:16
+#### REV: Monday 19 November 2024 17:18
 <hr>
 
