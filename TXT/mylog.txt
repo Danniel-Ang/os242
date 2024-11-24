@@ -123,3 +123,14 @@ ZCZC W09 360 L13 LFS Stuff
 ZCZC W09 120 L01 Pop Quiz
 ZCZC W09 90 L14 Log + update + running etc
 ZCZC W09 90 L30 studying for midterm
+
+ZCZC W10 100 L02 go to os class
+ZCZC W10 20 L11 Trying Demos and Updating
+ZCZC W10 20 L12 Assignment Script
+ZCZC W10 740 L13 LFS Stuff
+ZCZC W10 30 L41 updating TXT/mylog.txt again
+ZCZC W10 200 L09 Learn for OS related content
+ZCZC W10 350 L09 Doing OS and fixing the error
+ZCZC W10 100 L09 Watching youtube references about LFS
+ZCZC W10 20 L64 Helping friend for doing its OS assigment for this week
+ZCZC W10 90 L14 Log + update + running etc

@@ -99,7 +99,11 @@ Some easy-to-use commands you can use to inspect hardware.
 * [List Materi](https://demos.vlsm.org/W09-01.html) --- Materi Week 9
 * [Excercise](https://rms46.vlsm.org/2/204.pdf) --- MIDTERM PROBLEM
 
+### 📍Week 10
+* [List Materi](https://demos.vlsm.org/W10-01.html) --- Materi Week 10
+* [Excercise](https://rms46.vlsm.org/2/205.pdf) --- MIDTERM PROBLEM
+
 <br>
-#### REV: Monday 19 November 2024 17:18
+#### REV: Monday 25 November 2024 06:20 AM
 <hr>
 
